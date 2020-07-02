@@ -1,0 +1,20 @@
+{
+  "name": "belltest",
+  "version": "1.0.0",
+  "description": "Test Bell JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JavaScript",
+    "Unit",
+    "Test",
+    "jest"
+  ],
+  "author": "Silvia Garstea <garsteasilvia@yahoo.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
